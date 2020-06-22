@@ -1,6 +1,6 @@
 # README.md
 _이 프로그램은 아래 링크의 영상을 토대로 만들었습니다._   
-[영상 링크](https://youtu.be/UkflQCKjDdg, "개발자 라라 님의 영상")
+[영상 링크](https://youtu.be/UkflQCKjDdg "개발자 라라 님의 영상")
 
 ## 일반 사용자
 1. 목록에 여러가지가 있습니다. 다른 거 다 필요없고 'Helltaker_Sticker.zip'을 받습니다.
