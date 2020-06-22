@@ -1,8 +1,8 @@
 # README.md
 
 _이 프로그램은 아래 링크의 영상을 토대로 만들었습니다._
-Link: [영상 링크][youtubeLink]
-[youtubeLink]: https://youtu.be/UkflQCKjDdg
+Link: [영상 링크](https://youtu.be/UkflQCKjDdg, "개발자 라라 님의 영상")
+
 
 ## 추가된 사항
 * 작업 표시줄 알림 영역의 아이콘을 오른쪽 클릭하시면 1과 2가 있는데 각각 다른 버전의 루시퍼를 보실 수 있습니다.
